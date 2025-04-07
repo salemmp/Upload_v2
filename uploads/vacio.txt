@@ -1,0 +1,1 @@
+permite subir la carpeta a gitgub, si esta vacia no.
